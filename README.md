@@ -1,2 +1,4 @@
 # hello-world
-Dupa
+
+#Dupa
+#To jest dupa readme plik - do dupy innymi slowy...
